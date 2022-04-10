@@ -1,0 +1,12 @@
+{
+  "name": "@voidptr9/service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Managing reactive state with controlled updates like it's 2022.",
+  "repository": "https://github.com/voidptr9/service.git",
+  "author": "Abdullahi M <voidptr9@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "node ./test"
+  }
+}
